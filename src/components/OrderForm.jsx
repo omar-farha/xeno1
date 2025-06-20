@@ -470,7 +470,6 @@ const OrderForm = () => {
                 "مطروح",
                 "الأقصر",
                 "قنا",
-                "شمال سيناء",
                 "سوهاج",
               ].map((option) => (
                 <MenuItem key={option} value={option}>
