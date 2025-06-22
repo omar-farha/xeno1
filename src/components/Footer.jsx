@@ -79,7 +79,7 @@ const Footer = () => {
           {/* رابط الإنستجرام */}
           <SocialButton
             component="a"
-            href="https://www.instagram.com/xeno_wear10?igsh=MTI5Ymt2N2s2cTRveQ=="
+            href="https://www.instagram.com/xeno_gold?igsh=MWw3cWRneWpzdmR6dw=="
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -89,7 +89,7 @@ const Footer = () => {
           {/* رابط الفيسبوك */}
           <SocialButton
             component="a"
-            href="https://www.facebook.com/share/12HzsRkQEce/"
+            href="https://www.facebook.com/share/15QNGF6YCE/"
             target="_blank"
             rel="noopener noreferrer"
           >
