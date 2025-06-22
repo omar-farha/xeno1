@@ -16,7 +16,7 @@ import {
 import { styled } from "@mui/material/styles";
 import { motion } from "framer-motion";
 import CloseIcon from "@mui/icons-material/Close";
-import size from "../public/size.jpg";
+import size from "../public/WhatsApp Image 2025-06-22 at 15.08.19_227c2d35.jpg";
 import { initFacebookPixel, trackEvent } from "../facebookPixel";
 import a1 from "../public/b1.jpg";
 import a2 from "../public/b2.jpg";
@@ -42,7 +42,7 @@ const products = [
     description:
       "ترنج اديدس الجديد بتصميمة الفريد وألوانة الأساسية متوفر الان بأعلي الخامات وافضل الاسعار فقط في XENO",
     images: [a1, a2, a3, a4, a5],
-    colors: ["Black", "White", "Beige", "Navy", "Green"],
+    colors: ["اسود", "ابيض", "بيج", "كحلي", "زيتي"],
     sizes: ["L", "XL", "2XL", "3XL"],
     offers: [
       { quantity: 2, price: 700, discount: "11%" },
@@ -56,7 +56,7 @@ const products = [
     description:
       "ترنج نورث فيس الرياضي بتصميم عصري وألوان جذابة، مناسب لجميع المناسبات مع أعلى جودة وأفضل سعر",
     images: [c1, c2, c3, c4, c5, c6],
-    colors: ["Black", "White"],
+    colors: ["اسود", "ابيض"],
     sizes: ["L", "XL", "2XL", "3XL"],
     offers: [{ quantity: 2, price: 950, discount: "10%" }],
   },
@@ -67,7 +67,7 @@ const products = [
     description:
       "ترنج اديدس الكلاسيكي بتصميم مريح وأنيق، متوفر بعدة ألوان تناسب جميع الأذواق",
     images: [d1, d2, d3],
-    colors: ["red", "White", "blue"],
+    colors: ["احمر", "ابيض", "ازرق"],
     sizes: ["L", "XL", "2XL", "3XL"],
     offers: [{ quantity: 2, price: 850, discount: "11%" }],
   },
