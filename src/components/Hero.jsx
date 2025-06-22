@@ -132,7 +132,8 @@
 
 // export default Hero;
 import React from "react";
-import video from "../public/bv.mp4";
+import video from "../public/WhatsApp Video 2025-06-22 at 15.38.10_374a36b3.mp4
+";
 
 const Hero = () => {
   return (
