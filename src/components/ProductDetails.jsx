@@ -16,7 +16,7 @@ import {
 import { styled } from "@mui/material/styles";
 import { motion } from "framer-motion";
 import CloseIcon from "@mui/icons-material/Close";
-import a1 from "../public/b1.jpg";
+
 import a2 from "../public/b2.jpg";
 import a3 from "../public/b3.jpg";
 import a4 from "../public/b4.jpg";
@@ -204,11 +204,11 @@ const products = [
   {
     id: 1,
     name: "Adidas",
-    price: 399,
+    price: 370,
     description:
       "ترنج اديدس الجديد بتصميمة الفريد وألوانة الأساسية متوفر الان بأعلي الخامات وافضل الاسعار فقط في XENO",
-    images: [a1, a2, a3, a4, a5],
-    colors: ["Black", "White", "Beige", "Navy", "Green"],
+    images: [ a2, a3, a4, a5],
+    colors: [ "White", "Beige", "Navy", "Green"],
     sizes: ["L", "XL", "2XL", "3XL"],
     offers: [
       { quantity: 2, price: 700, discount: "11%" },
